@@ -1,3 +1,3 @@
 ---
-title: Welcome to my blog!
+title:Dear Strangers！ Welcome to my blog!
 ---
